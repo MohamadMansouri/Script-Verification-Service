@@ -1,0 +1,1 @@
+curl https://canonical.com/
